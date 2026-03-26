@@ -1,0 +1,14 @@
+{
+    "num_slots": 3,
+    "slots": [
+        "username",
+        "vrf CONVERTER-MGMT",
+        "pa$$w0rd"
+    ],
+    "hidden": [
+        false,
+        false,
+        true
+    ],
+    "hotkeys_enabled": false
+}
