@@ -1,5 +1,7 @@
 # 🚀 EZ Copy Paste (v1.0)
-
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 **EZ Copy Paste** is a professional-grade, lightweight multi-slot clipboard manager for Windows. Designed to stay out of your way as a "Ghost Dock," it allows you to manage up to 10 unique snippets effortlessly, making it the ultimate tool for data entry, coding, and customer support.
 
 ---
